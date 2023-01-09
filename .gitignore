@@ -1,0 +1,49 @@
+# Prerequisites
+*.d
+
+*.vsidx
+*.sarif
+*.xml
+*.lnk
+*.json
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+*.ipch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.dat
+
+*.aps
+/TODO.txt
+*.user
+*.claudiaideconfig
+/test/saves
+/test/x64/
+/x64/Debug
+/.vs
